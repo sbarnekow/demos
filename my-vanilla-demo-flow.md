@@ -4,19 +4,21 @@
      - Build a better product, faster!
      - Implement, test, and deploy, painlessly. 
      - We will discuss: workflow and what a day in the life of a developer is like (when they're using GitHub)
+  
   1.2 What is GitHub?
      - A set of features designed to allow software developers to work better together.
       - The world's largest host of open source code, used by over 12 million developers at work and home 
       - A place for code to be shared and reused across teams and organizations
     - Built on Git
       - Mature, stable, the most modern SCM framework.
-    
-  
+      
 2. Overview of demo environment  
   2.1. Today’s task
     - Make a change to a single page site running on GitHub Pages
+    
   2.2. Describe the change we’re going to be implementing
     - Change default cities for the application
+    
   2.3. Repository
     - HTML and Javascript project hosted on GitHub Enterprise
     - GitHub Pages is serving a static HTML website, changing this will allow us to illustrate the entire workflow
